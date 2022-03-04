@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:util="http://www.springframework.org/schema/util" xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util.xsd"> <!-- bean definitions here -->
+
+    <bean id="Student_bean" class="Student">
+        <property name="studentId" value="19"></property>
+        <property name="studentname" value="Ajay"></property>
+        <property name="studntAdress" value="Pune"></property>
+    </bean>
+    <bean id="Student_bean_const" class="Student">
+        <constructor-arg name="studentId" value="19"></constructor-arg>
+        <constructor-arg name="studentname" value="Ajay Aglave"></constructor-arg>
+        <constructor-arg name="studntAdress" value="Mumbai"></constructor-arg>
+    </bean>
+    <bean id="Student_bean_mix" class="Student">
+        <property name="studentId" value="19"></property>
+        <property name="studentname" value="Ajay"></property>
+        <constructor-arg name="studntAdress" value="Mumbai"></constructor-arg>
+    </bean>
+</beans>

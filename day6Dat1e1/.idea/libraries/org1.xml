@@ -1,0 +1,38 @@
+<component name="libraryTable">
+  <library name="org1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/MoclitoFile/mockito-all-1.10.19.jar!/org" />
+      <root url="file://$USER_HOME$/eclipse" />
+      <root url="file://$PROJECT_DIR$/.." />
+      <root url="file://$PROJECT_DIR$/../Day2" />
+      <root url="file://$PROJECT_DIR$/../Day3" />
+      <root url="file://$PROJECT_DIR$/../Day4" />
+      <root url="file://$PROJECT_DIR$/../Day5Date31" />
+      <root url="file://$PROJECT_DIR$/../day2-2" />
+      <root url="file://$USER_HOME$/eclipse-workspace" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/MoclitoFile/mockito-all-1.10.19.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Day2/src" />
+      <root url="file://$PROJECT_DIR$/../Day3/src" />
+      <root url="file://$PROJECT_DIR$/../Day4/src" />
+      <root url="file://$PROJECT_DIR$/../Day5Date31/src" />
+      <root url="file://$PROJECT_DIR$/../Day6date1/src" />
+      <root url="file://$PROJECT_DIR$/../HelloWorld1/src" />
+      <root url="file://$PROJECT_DIR$/../HelloWorld/src" />
+      <root url="file://$PROJECT_DIR$/../JunitDemo1/src" />
+      <root url="file://$PROJECT_DIR$/../JunitDemo/src" />
+      <root url="file://$PROJECT_DIR$/../OOps/src" />
+      <root url="file://$PROJECT_DIR$/../day2-2/src" />
+      <root url="file://$PROJECT_DIR$/src" />
+      <root url="file://$PROJECT_DIR$/../Day2/src" />
+      <root url="file://$PROJECT_DIR$/../Day3/src" />
+      <root url="file://$PROJECT_DIR$/../Day4/src" />
+      <root url="file://$PROJECT_DIR$/../Day5Date31/src" />
+      <root url="file://$PROJECT_DIR$/../day2-2/src" />
+      <root url="file://$PROJECT_DIR$/src" />
+      <root url="file://$USER_HOME$/eclipse-workspace/Hello/src" />
+    </SOURCES>
+  </library>
+</component>
